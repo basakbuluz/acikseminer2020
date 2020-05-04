@@ -1,4 +1,4 @@
-# acikseminer2020
+# Açık Kaynak Seminer Programı - 2020
 Türkiye Açık Kaynak Platformunun organizasyonluğunda düzenlenen Açık Seminer (https://www.acikseminer.com/) serisinin Doğal Dil İşleme haftasında [Açık Seminer 14. Gün: NLP 101: Doğal Dil İşlemeye Giriş](https://www.acikseminer.com/seminerler/acik-seminer-14-gun-nlp-101-dogal-dil-islemeye-giris-7194f676) konulu sunuma ait kaynaklar.
 
 <p align="center">
@@ -34,4 +34,4 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/acikseminer2020/blob/master/demos/word2vec_tr_analysis.ipynb)
 
-**NOT:** Word2vec çalışma dosyasını başlatmadan önce 2019.03.20 tarihli Türkçe Wikipedia korpusu ile eğitilmiş [word2vec model dosyasını](https://dumps.wikimedia.org/trwiki/) indirerek `models/tr_word2vec` klasörü altına yükleyiniz.
+>  **NOT:** Word2vec çalışma dosyasını başlatmadan önce 2019.03.20 tarihli Türkçe Wikipedia korpusu ile eğitilmiş [word2vec model dosyasını](https://dumps.wikimedia.org/trwiki/) indirerek `models/tr_word2vec` klasörü altına yükleyiniz.
