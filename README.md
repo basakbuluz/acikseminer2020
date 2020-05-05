@@ -35,3 +35,17 @@ Sunum içerisinde bir çok kaynağa yönlendirme linkleri mevcuttur.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/acikseminer2020/blob/master/demos/word2vec_tr_analysis.ipynb)
 
 >  **NOT:** Word2vec çalışma dosyasını başlatmadan önce 2019.03.20 tarihli Türkçe Wikipedia korpusu ile eğitilmiş [word2vec model dosyasını](https://dumps.wikimedia.org/trwiki/) indirerek `models/tr_word2vec` klasörü altına yükleyiniz.
+
+### Sunumda yer alan diğer kaynaklar
+**Türkçe Stop Words**
+- https://github.com/ahmetax/trstop/blob/master/dosyalar/turkce-stop-words
+- https://github.com/hakkiyagiz/turkish-stopwords
+
+**Önceden Eğitilmiş Türkçe Word2vecler ve Word2Vec eğitme kaynakları**
+- http://vectors.nlpl.eu/repository/#
+- https://github.com/hakkiyagiz/SIU2019
+- https://github.com/akoksal/Turkish-Word2Vec/wiki
+- https://dumps.wikimedia.org/trwiki/
+
+**Türkçe NER ve PoS tagging**
+- https://github.com/stefan-it/turkish-bert
